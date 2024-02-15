@@ -28,6 +28,9 @@ of the industry.
 
 -  ![](https://komarev.com/ghpvc/?username=ahmedamin20)
 
+-  [![Star on GitHub](https://img.shields.io/github/stars/ahmedamin20/ahmedamin20.svg?style=social)
+
+
 <br>
 <br>
 
