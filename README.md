@@ -16,7 +16,7 @@ of the industry.
 - Web illustrations by Storyset ( https://storyset.com/web )
 --->
 <!-- <img align="right" alt="GIF" src="./assets/programming-animate.svg" width="360px"/> -->
-<img align="right" alt="GIF" src="./assets/programming-animate.svg" width="360px"/>
+<img align="right" alt="GIF" src="./assets/programming-animate.svg" width="400px"/>
 
 
 <be>
