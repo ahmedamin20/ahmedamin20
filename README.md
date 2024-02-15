@@ -22,13 +22,11 @@ of the industry.
 <be>
 <br/>
 
--  ![](https://komarev.com/ghpvc/?username=ahmedamin20)
-
-
 - 🔍 Take a look at my projects on [**my portfolio**](https://portfolio-psi-pied-15.vercel.app/)!.
 
 - 📫 How to reach me: **tc.supply6@gmail.com**.
 
+-  ![](https://komarev.com/ghpvc/?username=ahmedamin20)
 
 <br>
 <br>
