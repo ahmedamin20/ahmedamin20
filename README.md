@@ -124,8 +124,7 @@ of the industry.
 <summary><b>⚡ Github Public Stats</b></summary>
 <br>
 <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedamin20&theme=rogue"/>
 </p>
-![](https://github-readme-activity-graph.vercel.app/graph?username=ahmedamin20&theme=rogue)
-
 </details>
 
