@@ -33,7 +33,15 @@ of the industry.
 
 
 <br>
-<h2 align="center">📫 Connect with me</h2>
+<h2 align="center">📊 Github Stats</h2>
+
+<div align = "center">
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedamin20&show_icons=true&theme=radical&count_private=true" alt="ahmedamin20" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedamin20&layout=compact&theme=radical" alt="ahmedamin20" height="165">
+</p>
+
+</div>
 
 <div align = "center">
   
