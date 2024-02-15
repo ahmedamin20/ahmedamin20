@@ -2,14 +2,6 @@
 
 <!-- ![Personal Profile Banner](./assets/cover3.png) -->
 # 🏆 GitHub Achievements 🏆
-
-<br>
-
-
-#### Displaying achievements on your profile is completely optional; by default, they can be seen by anyone viewing your public profile.
-
-#### You can opt out from having achievements displayed on your profile by going to your [profile settings](https://github.com/settings).
-
 <br>
 
 # 📃 Achievement List 📃
@@ -17,7 +9,7 @@
 
 | Badge | Name | How to get | Needed amount | 
 | :-: | :-: | :-: | :-: |
-| [Level Up!](https://github.com/abhisheknaiidu
+| ![Level Up!](https://github.com/abhisheknaiidu)
 | ![Quickdraw](/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png)                 | Quickdraw        | Gitty up!<br>(closed an issue / pull request within 5 minutes of opening) | <table>  <thead>  <tr>  <th>DEFAULT</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="60px"></td> </tr>  <tr>  <td align="center">1</td> </tr>   </tbody>  </table> |
 | ![Pull Shark](/Media/Badges/Pull-Shark/PNG/PullShark.png)     | Pull Shark  | Opened a pull request that has been merged | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Media/Badges/Pull-Shark/PNG/PullShark.png" width="60px"></td>   <td><img src="/Media/Badges/Pull-Shark/PNG/PullShark_Bronze.png" width="60px" align="center"></td>  <td><img src="/Media/Badges/Pull-Shark/PNG/PullShark_Silver.png" width="60px"></td>  <td><img src="/Media/Badges/Pull-Shark/PNG/PullShark_Gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">2</td>  <td align="center">16</td>  <td align="center">128</td>  <td align="center">1024</td>  </tr>   </tbody>  </table>      |
 | ![YOLO](/Media/Badges/YOLO/PNG/YOLO_Badge.png)                 | YOLO        | Merged a pull request without a review | <table>  <thead>  <tr>  <th>DEFAULT</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="/Media/Badges/YOLO/PNG/YOLO_Badge.png" width="60px"></td> </tr>  <tr>  <td align="center">1</td> </tr>   </tbody>  </table> |
