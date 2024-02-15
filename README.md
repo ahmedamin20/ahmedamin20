@@ -58,8 +58,10 @@ of the industry.
 <details open>
 <summary><b>🏄‍♂️ Frontend</b></summary>
 <br>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedamin20&layout=compact"
   alt="ahmedamin20" width="420"/>&nbsp;
+</p>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
