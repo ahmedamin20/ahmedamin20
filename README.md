@@ -116,7 +116,7 @@ of the industry.
 <summary><b>🏆 Github Trophies</b></summary>
 <br>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?user=ahmedamin20&theme=radical&no-frame=true&no-bg=true" alt="ahmedamin20" />
+<img src="https://github-profile-trophy.vercel.app/?username=ahmedamin20&theme=radical&no-frame=true&no-bg=true" alt="ahmedamin20" />
 </p>
 </details>
 
