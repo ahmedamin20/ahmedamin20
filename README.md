@@ -124,7 +124,7 @@ of the industry.
 <summary><b>⚡ Github Public Stats</b></summary>
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?user=ahmedamin20&show_icons=true&theme=radical&count_private=true" alt="ahmedamin20" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?user=ahmedamin20&layout=compact&theme=radical" alt="ahmedamin20" height="165">
+![](https://github-readme-activity-graph.vercel.app/graph?username=ahmedamin20&theme=rogue)
 </p>
-<img src="https://visitor-badge.glitch.me/badge?page_id=ahmedamin20.ahmedamin20">
+
 </details>
