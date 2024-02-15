@@ -5,7 +5,6 @@
 
 <br>
 
-# 🏅 Displaying Achievements 🏅
 
 #### Displaying achievements on your profile is completely optional; by default, they can be seen by anyone viewing your public profile.
 
@@ -39,7 +38,7 @@ of the industry.
 - Web illustrations by Storyset ( https://storyset.com/web )
 --->
 <!-- <img align="right" alt="GIF" src="./assets/programming-animate.svg" width="360px"/> -->
-<img align="right" alt="GIF" src="./assets/programming-animate.svg" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360px"/>
 
 
 <be>
