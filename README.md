@@ -15,7 +15,7 @@ of the industry.
 <!---
 - Web illustrations by Storyset ( https://storyset.com/web )
 --->
-<img align="right" alt="GIF" src="./assets/programming-animate.svg" width="360px"/>
+<!-- <img align="right" alt="GIF" src="./assets/programming-animate.svg" width="360px"/> -->
 
 
 <br>
@@ -36,7 +36,6 @@ of the industry.
 <div align = "center">
   
 [![Gmail: Ahmed Amin](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tc.supply6@gmail.com)](mailto:tc.supply6@gmail.com)&nbsp;
-[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/midoashraf010)](https://www.frontendmentor.io/profile/midoashraf010)&nbsp;
 [![Linkedin: Ahmed Amin](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-amin-2280a8149/)](https://www.linkedin.com/in/ahmed-amin-2280a8149/)
 
 </div>
@@ -47,7 +46,7 @@ of the industry.
 <div align = "center">
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?user=ahmedamin20&show_icons=true&theme=radical&count_private=true" alt="ahmedamin20" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?user=ahmedamin20&layout=compact&theme=radical" alt="ahmedamin20" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedamin20&show_icons=true&theme=radical" alt="ahmedamin20" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?user=ahmedamin20&layout=compact&theme=radical" alt="ahmedamin20" height="165">
 </p>
 
 </div>
