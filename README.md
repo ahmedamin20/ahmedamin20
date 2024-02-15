@@ -125,7 +125,7 @@ of the industry.
 <br>
 <p align="center">
 </p>
+![](https://github-readme-activity-graph.vercel.app/graph?username=ahmedamin20&theme=rogue)
 
 </details>
-![](https://github-readme-activity-graph.vercel.app/graph?username=ahmedamin20&theme=rogue)
 
