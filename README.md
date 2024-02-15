@@ -18,7 +18,9 @@ of the industry.
 <!-- <img align="right" alt="GIF" src="./assets/programming-animate.svg" width="360px"/> -->
 
 
-<br>
+<be>
+
+-  ![](https://komarev.com/ghpvc/?username=ahmedamin20)
 
 
 - 🔍 Take a look at my projects on [**my portfolio**](https://portfolio-psi-pied-15.vercel.app/)!.
