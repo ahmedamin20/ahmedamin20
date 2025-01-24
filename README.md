@@ -35,9 +35,9 @@ of the industry.
 <be>
 <br/>
 
-- 🔍 Take a look at my projects on [**my portfolio**](https://portfolio-psi-pied-15.vercel.app/)!.
+- 🔍 Take a look at my projects on [**my portfolio**](https://ahmeamin.tech/)!.
 
-- 📫 How to reach me: **tc.supply6@gmail.com**.
+- 📫 How to reach me: **ahmed.amin.work24@gmail.com**.
 
 -  ![](https://komarev.com/ghpvc/?username=ahmedamin20)
 
@@ -61,7 +61,7 @@ of the industry.
 
 <div align = "center">
   
-[![Gmail: Ahmed Amin](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tc.supply6@gmail.com)](mailto:tc.supply6@gmail.com)&nbsp;
+[![Gmail: Ahmed Amin](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ahmed.amin.work24@gmai.com)](mailto:ahmed.amin.work24@gmai.com)&nbsp;
 [![Linkedin: Ahmed Amin](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-amin-2280a8149/)](https://www.linkedin.com/in/ahmed-amin-2280a8149/)
 
 </div>
